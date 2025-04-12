@@ -2,7 +2,8 @@
 
 # Fala Pessoal! Bem vindos ao meu Perfil. 
 
-##   - Cursando tecnico em jogos digitais 🎮;
+##   - Cursando o curso Geração tech;
+##   - Cursei Programação de Jogos Digitais;
 
 
 ###   - Programador C# e Unity;
