@@ -2,9 +2,8 @@
 
 # Fala Pessoal! Bem vindos ao meu Perfil. 
 
-##   - Cursando o curso Geração tech;
 ##   - Cursei Programação de Jogos Digitais;
-
+##   - Cursando o curso Geração Tech;
 
 ###   - Programador C# e Unity;
 [![Itchi.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://angelo1109.itch.io/)
